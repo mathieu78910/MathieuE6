@@ -27,11 +27,7 @@ const ContactSection = () => {
             <div className="space-y-4">
               <div className="flex items-center space-x-4">
                 <Mail className="w-6 h-6 text-blue-400" />
-                <span>email@example.com</span>
-              </div>
-              <div className="flex items-center space-x-4">
-                <Phone className="w-6 h-6 text-blue-400" />
-                <span>+33 6 XX XX XX XX</span>
+                <span>mathieu.monnie7@gmail.com</span>
               </div>
               <div className="flex items-center space-x-4">
                 <MapPin className="w-6 h-6 text-blue-400" />
@@ -47,7 +43,7 @@ const ContactSection = () => {
                 <Linkedin className="w-6 h-6" />
               </a>
               <a
-                href="#"
+                href=""
                 className="hover-card p-4 rounded-full hover:text-blue-400 transition-colors"
               >
                 <Github className="w-6 h-6" />

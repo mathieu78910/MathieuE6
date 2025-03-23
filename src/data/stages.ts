@@ -1,12 +1,12 @@
 export const stages = [
   {
     id: "stage1",
-    title: "Stage ABÉCÉDAIRE - 1ère année",
+    title: "Stage ABECEDAIRE - 1ère année",
     period: "Mai - Juin 2024",
     image:
       "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
     details:
-      "Stage effectué chez ABÉCÉDAIRE:\n- Développement d'une API NodeJS\n- Création de maquettes Figma\n- Mise en place d'un système de scraping\n- Déploiement d'applications web",
+      "Stage effectué chez ABECEDAIRE:\n- Développement d'une API NodeJS\n- Création de maquettes Figma\n- Mise en place d'un système de scraping\n- Déploiement d'applications web",
     downloadUrl: "/files/MMO_RapportDeStageMathieuFinal3 (2).docx",
     attestationUrl: "/files/attestation-stage.odt",
   },
