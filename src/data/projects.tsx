@@ -68,10 +68,10 @@ export const projects = [
   {
     id: "stage",
     title: "Stage ABECEDAIRE",
-    description: "Stage avec rapport téléchargeable",
+    description: "Stage avec preuve téléchargeable",
     icon: <FileText className="w-6 h-6" />,
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
+      "public/files/logo-abecedaire1.png",
     details:
       "Stage en entreprise:\n- Développement web\n- API NodeJS\n- Maquettage Figma\n- Scraping de données",
     excelFile: "public/files/2MMO_E4_BTS_1SIO_2025.xlsx",

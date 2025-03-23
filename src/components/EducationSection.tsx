@@ -14,6 +14,28 @@ const EducationSection = () => {
               2023-2025 | Lycée La Châtaigneraie, Mesnil-Esnard
             </p>
           </div>
+            <div
+            className="hover-card p-6 animate-fadeInUp"
+            style={{ animationDelay: "0.2s" }}
+          >
+            <h3 className="text-xl font-semibold mb-2">
+              Stage GOTO IA - 2éme année
+            </h3>
+            <p className="text-gray-300">
+              Janvier 2025- Février 2025 | Paris
+            </p>
+          </div>
+          <div
+            className="hover-card p-6 animate-fadeInUp"
+            style={{ animationDelay: "0.2s" }}
+          >
+            <h3 className="text-xl font-semibold mb-2">
+              Stage ABECEDAIRE - 1er année
+            </h3>
+            <p className="text-gray-300">
+              Mai 2024- Juin 2024 | Rouen
+            </p>
+          </div>
           <div
             className="hover-card p-6 animate-fadeInUp"
             style={{ animationDelay: "0.2s" }}

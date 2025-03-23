@@ -10,5 +10,5 @@ export const skills = [
   { category: "CMS", items: ["WordPress", "WIX"] },
   { category: "Cybersécurité", items: ["ANSSI", "RGPD"] },
   { category: "Gestion de projet", items: ["Scrum", "Trello", "Notion"] },
-  { category: "Gestion de version", items: ["GitHub"] },
+  { category: "Gestion de version", items: ["GitHub", "Docker"] },
 ];
