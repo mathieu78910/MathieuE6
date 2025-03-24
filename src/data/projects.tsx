@@ -76,4 +76,15 @@ export const projects = [
       "Stage en entreprise:\n- Développement web\n- API NodeJS\n- Maquettage Figma\n- Scraping de données",
     excelFile: "public/files/2MMO_E4_BTS_1SIO_2025.xlsx",
   },
+  {
+    id: "stage",
+    title: "Stage GOTO IA",
+    description: "Stage avec preuve téléchargeable",
+    icon: <FileText className="w-6 h-6" />,
+    image:
+      "public/files/Logo_GOTOIA_2.png",
+    details:
+      "Stage en entreprise:\n- Mise à jour de l'application GOTO IA (symfony)\n- Requête Ajax\n- React arborescence\n- Formulaire",
+    excelFile: "public/files/2MMO_E4_BTS_1SIO_2025.xlsx",
+  },
 ];
