@@ -4,12 +4,11 @@ import SkillsSection from "./components/SkillsSection";
 import EducationSection from "./components/EducationSection";
 import StagesSection from "./components/StagesSection";
 import ProjectsSection from "./components/ProjectsSection";
-import NewsSection from "./components/NewsSection";
 import ContactSection from "./components/ContactSection";
 import { skills } from "./data/skills";
 import { projects } from "./data/projects";
 import { stages } from "./data/stages";
-import { news } from "./data/news";
+
 
 function App() {
   return (
@@ -20,7 +19,6 @@ function App() {
       <EducationSection />
       <StagesSection stages={stages} />
       <ProjectsSection projects={projects} />
-      <NewsSection news={news} />
       <ContactSection />
     </div>
   );

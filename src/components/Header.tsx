@@ -48,7 +48,7 @@ const Header = () => {
               href="#news"
               className="hover:text-blue-400 transition-colors duration-300"
             >
-              Actualités VR
+              Certification
             </a>
           </li>
           <li>
